@@ -94,7 +94,7 @@
     "@apidevtools/swagger-parser": "^10.1.0",
     "argparse": "2.0.1",
     "markdownlint": "^0.25.1",
-    "markdownlint-rule-helpers": "^0.16.0",
+    "markdownlint-rule-helpers": "^0.18.0",
     "openapi-types": "^11.0.1"
   }
 }
